@@ -21,7 +21,7 @@ const Cart = (props) => {
 		<div>
 			<h2 className="text-gray-800 text-lg sm:text-xl font-semibold mt-5 ml-3">
 				<FontAwesomeIcon className="text-gray-700" icon={faUsers} />{' '}
-				Total Mamber: {cart.length}
+				Total Member: {cart.length}
 			</h2>
 			<h2 className="text-gray-800 text-md sm:text-lg font-semibold my-5 ml-3">
 				<FontAwesomeIcon
@@ -37,7 +37,7 @@ const Cart = (props) => {
 			<hr />
 			<h2 className="text-gray-800 text-md sm:text-lg font-semibold my-1 ml-3">
 				<FontAwesomeIcon className="text-gray-700" icon={faListUl} />{' '}
-				Selected Mambers:
+				Selected Members:
 			</h2>
 			<hr />
 			<ul className="mt-3 mb-2">
