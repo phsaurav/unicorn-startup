@@ -2,4 +2,7 @@
 
 A Project to easily choose some developers for my 🦄 Startup from the applicants.
 
- Markup : * Bullet list
+* Item 1
+* Item 2
+  * Sub Item 1
+  * Sub Item 2
