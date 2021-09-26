@@ -1,3 +1,4 @@
+// *Side Cart Component
 import {
 	faChartPie,
 	faDollarSign,
@@ -12,6 +13,8 @@ const Cart = (props) => {
 	let totalCost = 0;
 	let totalShare = 0;
 	let myShare = 100;
+	
+	// *Total Cost and share calculation for cart
 	for (const candidate of cart) {
 		totalCost += parseInt(candidate.salary);
 		totalShare += parseInt(candidate.share_requirement);

@@ -1,3 +1,4 @@
+// *Header Componenet
 import React from 'react';
 import cover from '../../images/cover.jpg';
 

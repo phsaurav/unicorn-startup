@@ -1,3 +1,4 @@
+// * Cards and side cart main body container
 import React, { useEffect, useState } from 'react';
 import Cards from '../Cards/Cards';
 import Cart from '../Cart/Cart';
@@ -6,6 +7,7 @@ const Container = () => {
 	const [candidates, setCandidates] = useState([]);
 	const [cart, setCart] = useState([]);
 
+	// *Data loading for cards
 	useEffect(() => {
 		fetch('./fakeData.json')
 			.then((res) => res.json())
@@ -14,6 +16,7 @@ const Container = () => {
 			});
 	}, []);
 
+	// *Add to team button handaler
 	const handleAddToTeam = (candidate) => {
 		if (!cart.includes(candidate)) {
 			const newCart = [...cart, candidate];
