@@ -8,7 +8,7 @@ const Header = () => {
 				Select An Unicorn Startup Team
 			</h1>
 			<h3 className="text-white z-10 absolute text-lg sm:text-xl mt-28 font-normal inline-block">
-				I had a dream to see it I need a team
+				I had a dream, to see it I need a team
 			</h3>
 			<h1 className="text-white z-10 absolute text-3xl sm:text-4xl mt-40 font-medium">
 				BUDGET: 600000
