@@ -8,7 +8,7 @@ const Cards = (props) => {
 	return (
 		<div className="flex items-center">
 			{/* *Cart Start */}
-			<div className="card w-80 bg-white  shadow-xl hover:shadow mt-28 mx-3 mb-5">
+			<div className="card w-64 sm:w-80 bg-white  shadow-xl hover:shadow mt-28 mx-3 mb-5">
 				<img
 					className="w-40 mx-auto rounded-full -mt-20 border-8 border-white"
 					src={img}

@@ -4,7 +4,7 @@ import cover from '../../images/cover.jpg';
 const Header = () => {
 	return (
 		<div className="header flex justify-center h-60">
-			<h1 className="text-white z-10 absolute text-3xl sm:text-4xl mt-16 font-semibold">
+			<h1 className="text-white z-10 absolute text-2xl sm:text-4xl mt-16 font-semibold">
 				Select An Unicorn Startup Team
 			</h1>
 			<h3 className="text-white z-10 absolute text-lg sm:text-xl mt-28 font-normal inline-block">
