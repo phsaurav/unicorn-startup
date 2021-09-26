@@ -1,0 +1,152 @@
+[
+	{
+		"key": "B001RL8IYK",
+		"name": "Jhankar Mahbub",
+		"subtitle": "Sr. Web Developer",
+		"img": "https://trickbd.com/wp-content/uploads/2019/01/17/jhankarmahbub.jpg",
+		"unique": "Superb Examplar",
+		"age": "32",
+		"salary": "80000",
+		"share_requirement": "3"
+	},
+	{
+		"key": "B002RL8IYK",
+		"name": "Linus Torvalds",
+		"subtitle": "Finnish software engineer",
+		"img": "https://media.datacenterdynamics.com/media/images/LinuxCon_Europe_Linus_Torvalds_05.original.jpg",
+		"unique": "Git guy",
+		"age": "51",
+		"salary": "100000",
+		"share_requirement": "5"
+	},
+	{
+		"key": "B009RL8IYK",
+		"name": "Erlich Bachman",
+		"subtitle": "Master Renter",
+		"img": "https://i.guim.co.uk/img/media/67a921b3447ba8eb82f545fb9209e13e591f373d/0_123_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=3eaa3ce4299a48467477875ded3c5660",
+		"unique": "Good for Nothing Guy",
+		"age": "40",
+		"salary": "150000",
+		"share_requirement": "20"
+	},
+	{
+		"key": "B007RL8IYK",
+		"name": "Richard Hendricks",
+		"subtitle": "Software developer",
+		"img": "https://pyxis.nymag.com/v1/imgs/ab7/257/842d927edc1e00c603feadbbb90711c4a9-21-Thomas-Middleditch.rsquare.w1200.jpg",
+		"unique": "Brain Guy",
+		"age": "39",
+		"salary": "110000",
+		"share_requirement": "5"
+	},
+	{
+		"key": "B003RL8IYK",
+		"name": "Mark Zuckerberg",
+		"subtitle": "Entrepreneur",
+		"img": "https://i.imgur.com/yxpGNuM.jpg",
+		"unique": "Privacy Specialist",
+		"age": "37",
+		"salary": "70000",
+		"share_requirement": "9"
+	},
+	{
+		"key": "B004RL8IYK",
+		"name": "Sergey Brin",
+		"subtitle": "Data Specialist",
+		"img": "https://financialslot.com/wp-content/uploads/2020/09/Sergey-Brin-net-worth-01.jpg",
+		"unique": "The Data Guy",
+		"age": "48",
+		"salary": "90000",
+		"share_requirement": "5"
+	},
+	{
+		"key": "B011RL8IYK",
+		"name": "Donald Jared Dunn",
+		"subtitle": "Buisness Specialist",
+		"img": "https://pyxis.nymag.com/v1/imgs/d29/a9a/0ae51e0573a1320d8d74b07a8e55fc0332-20-woods.rsquare.w1200.jpg",
+		"unique": "Money Guy",
+		"age": "37",
+		"salary": "80000",
+		"share_requirement": "3"
+	},
+	{
+		"key": "B005RL8IYK",
+		"name": "Bill Gates",
+		"subtitle": "Software developer",
+		"img": "https://pbs.twimg.com/profile_images/1414439092373254147/JdS8yLGI_400x400.jpg",
+		"unique": "Copy Specialist",
+		"age": "65",
+		"salary": "50000",
+		"share_requirement": "10"
+	},
+	{
+		"key": "B006RL8IYK",
+		"name": "Jeff Atwood",
+		"subtitle": "Software developer",
+		"img": "https://opensource101.com/wp-content/uploads/2020/01/jeffatwood-1.jpg",
+		"unique": "Stack Overflow Guy",
+		"age": "51",
+		"salary": "60000",
+		"share_requirement": "5"
+	},
+	{
+		"key": "B008RL8IYK",
+		"name": "Nelson Bighetti",
+		"subtitle": "Web Developer",
+		"img": "https://c8d8q6i8.stackpathcdn.com/wp-content/uploads/2017/10/Josh-Brener-Contact-Information.jpg",
+		"unique": "Big Head",
+		"age": "36",
+		"salary": "30000",
+		"share_requirement": "1"
+	},
+	{
+		"key": "B010RL8IYK",
+		"name": "Bertram Gilfoyle",
+		"subtitle": "Sicurity Specialist",
+		"img": "https://st3.depositphotos.com/3444417/33574/i/600/depositphotos_335744738-stock-photo-special-screening-of-apples-little.jpg",
+		"unique": "The Silent Guy",
+		"age": "39",
+		"salary": "100000",
+		"share_requirement": "5"
+	},
+	{
+		"key": "B012RL8IYK",
+		"name": "Dinesh Chugtai",
+		"subtitle": "Software Developer",
+		"img": "https://pyxis.nymag.com/v1/imgs/edc/35b/f54e92c86105bd4a22e85a8402f8ef7ea8-kumail-nanjiani.rsquare.w1200.jpg",
+		"unique": "The talker",
+		"age": "34",
+		"salary": "30000",
+		"share_requirement": "2"
+	},
+	{
+		"key": "B013RL8IYK",
+		"name": "Jian Yang",
+		"subtitle": "Developer",
+		"img": "https://yt3.ggpht.com/ytc/AKedOLSwYRI6fZ2CW-G3tleFzceICsLIFPzEKFeZ4rcy=s900-c-k-c0x00ffffff-no-rj",
+		"unique": "Chinese Guy",
+		"age": "32",
+		"salary": "40000",
+		"share_requirement": "0"
+	},
+	{
+		"key": "B014RL8IYK",
+		"name": "Gavin Belson",
+		"subtitle": "Entrepreneur",
+		"img": "https://avatars.githubusercontent.com/u/18426436?v=4",
+		"unique": "Show off guy",
+		"age": "51",
+		"salary": "120000",
+		"share_requirement": "15"
+	},
+	{
+		"key": "B015RL8IYK",
+		"name": "Monica Hall",
+		"subtitle": "Legal Advisor",
+		"img": "https://healthyceleb.com/wp-content/uploads/2019/11/Amanda-Crew-as-seen-in-a-picture-showing-her-new-hair-in-April-2017.jpg",
+		"unique": "The Motivation",
+		"age": "27",
+		"salary": "100000",
+		"share_requirement": "5"
+	}
+]
