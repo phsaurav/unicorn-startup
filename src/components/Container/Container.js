@@ -15,9 +15,10 @@ const Container = () => {
 	}, []);
 
 	const handleAddToTeam = (candidate) => {
-		const newCart = [...cart, candidate];
-		console.log(newCart);
-		setCart(newCart);
+		if (!cart.includes(candidate)) {
+			const newCart = [...cart, candidate];
+			setCart(newCart);
+		}
 	};
 
 	return (
@@ -35,7 +36,7 @@ const Container = () => {
 					</div>
 				</div>
 			</div>
-			<Cart></Cart>
+			<Cart cart={cart}></Cart>
 		</div>
 	);
 };

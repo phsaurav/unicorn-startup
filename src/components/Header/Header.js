@@ -14,7 +14,7 @@ const Header = () => {
 				BUDGET: 600000
 			</h1>
 			<img
-				class="object-cover h-60 w-full absolute top-0 z-0"
+				className="object-cover h-60 w-full absolute top-0 z-0"
 				src={cover}
 				alt=""
 			/>
