@@ -18,6 +18,8 @@ const Container = () => {
 		if (!cart.includes(candidate)) {
 			const newCart = [...cart, candidate];
 			setCart(newCart);
+		}else{
+			alert('Already in the team');
 		}
 	};
 
